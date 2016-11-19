@@ -4,6 +4,7 @@ sudo apt-get install isc-dhcp-server
 
 #Verificando o status do Servidor DHCPD
 sudo service isc-dhcp-server status
+sudo dhcpd -t
 
 #Fazendo o backup do arquivo de configuração do DHCP Server dhcpd.conf
 sudo cp /etc/dhcp/dhcpd.conf /etc/dhcp/dhcpd.conf.bkp
