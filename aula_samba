@@ -1,0 +1,61 @@
+Primeira etapa:
+
+#Instalação do Serviço de NTP (Network Time Protocol)
+sudo -i
+apt-get update
+apt-get install ntp
+
+#Criando o arquivo ntp.drift
+touch /etc/ntp.drift
+echo 0.0 > /etc/ntp.drift
+
+#Copiando o arquivo ntp.conf
+cp conf/ntp.conf /etc/ntp.conf
+
+#Editando o arquivo /etc/ntp.conf
+vim /etc/ntp.conf
+
+#Sair sem salvar do editor VIM
+ESC
+Shift : q!
+
+#Comandos de verificação do Serviço do NTP
+#Parando, iniciando e vendo o status do serviço
+service ntp stop
+service ntp start
+service ntp status
+
+#Monitorando o NTP
+ntpq -p
+ntpq -pn
+
+#Visualizando Data/Hora do computador
+date
+hwclock
+===========================================================================================
+
+Segunda etapa:
+#Instalação do Serviço de KDC Kerberos
+apt-get install krb5-user krb5-config
+
+#Configuração do krb5-config padrão
+#Obs: o nome Realm deve ser em MAIÚSCULA
+Realm=PTI.INTRA
+Server=ptispo01dc01.pti.intra
+Hostname=ptispo01dc01.pti.intra
+
+#Copiando o arquivo do Kerberos
+cp conf/krb5.conf /etc/krb5.conf
+
+#Visualização das informações do krb.conf
+vim /etc/krb5.conf
+
+#Sair sem salvar do editor VIM
+ESC
+Shift : q!
+===========================================================================================
+
+Terceira etapa:
+
+#Instalação do SAMBA-4 Server
+apt-get install samba samba-common smbclient cifs-utils samba-vfs-modules samba-testsuite samba-dbg samba-dsdb-modules cups cups-bsd cups-common cups-core-drivers cups-pdf libnss-winbind libpam-winbind kcc 
