@@ -1,5 +1,0 @@
-#Instalando o sysv-rc-conf ativando o Internet
-sudo apt-get install sysv-rc-conf
-sudo cp internet /etc/init.d/
-sudo service internet start
-sudo sysv-rc-conf <-- opcoes: 1,2,3,4 é 5
