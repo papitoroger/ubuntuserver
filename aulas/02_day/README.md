@@ -26,27 +26,27 @@ Procedimentos que serão utilizados na aula do GNU/Linux Mint Desktop Cinnamon 1
 06. Instalando o GNU/Linux Mint 18.1;
 07. Atualizando o GNU/Linux Mint 18.1 utilizando o MintUpdate e via Bash/Shell apt-get;
 
-Comandos utilizados na Aula:
+<b>Comandos utilizados na Aula:
 
-#Atualizando o sistema via Bash/Shell utilizando o apt-get
-#No GNU/Linux Mint recomendado utilizar o MintUpdate
+Atualizando o sistema via Bash/Shell utilizando o apt-get
+No GNU/Linux Mint recomendado utilizar o MintUpdate
 
-#Alterando os privilegios utilizando o comando sudo
-sudo -i
+Alterando os privilegios utilizando o comando sudo</b>
+<i>sudo -i</i>
 
-#Atualizando as listas do Apt-Get
+Atualizando as listas do Apt-Get
 sudo apt-get update
 
-#Atualizando todos os software instalados
+Atualizando todos os software instalados
 sudo apt-get upgrade
 
-#Atualizando a distribuição é o Kernel
+Atualizando a distribuição é o Kernel
 sudo apt-get dist-upgrade
 
-#Removendo software desnecessários
+Removendo software desnecessários
 sudo apt-get autoremove
 
-#Limpando o Cache do Apt-Get
+Limpando o Cache do Apt-Get
 sudo apt-get clean
 
 Procedimentos que serão utilizados na aula do GNU/Linux Ubuntu Server 16.04.1 LTS:
@@ -60,23 +60,23 @@ Procedimentos que serão utilizados na aula do GNU/Linux Ubuntu Server 16.04.1 L
 
 Comandos utilizados na Aula:
 
-#Atualizando o sistema via Bash/Shell utilizando o apt-get
-#No GNU/Linux Mint recomendado utilizar o MintUpdate
+Atualizando o sistema via Bash/Shell utilizando o apt-get
+No GNU/Linux Mint recomendado utilizar o MintUpdate
 
-#Alterando os privilegios utilizando o comando sudo
+Alterando os privilegios utilizando o comando sudo
 sudo -i
 
-#Atualizando as listas do Apt-Get
+Atualizando as listas do Apt-Get
 sudo apt-get update
 
-#Atualizando todos os software instalados
+Atualizando todos os software instalados
 sudo apt-get upgrade
 
-#Atualizando a distribuição é o Kernel
+Atualizando a distribuição é o Kernel
 sudo apt-get dist-upgrade
 
-#Removendo software desnecessários
+Removendo software desnecessários
 sudo apt-get autoremove
 
-#Limpando o Cache do Apt-Get
+Limpando o Cache do Apt-Get
 sudo apt-get clean
