@@ -1,4 +1,10 @@
-Instalação do GNU/Linux Mint 18.1 Cinnamon x64 e do GNU/Linux Ubuntu Server 16.04.1 LTS
+Procedimentos de Instalação do GNU/Linux Ubuntu Server: https://github.com/vaamonde/ubuntuserver/blob/master/aulas/02_day/01-ProcedimentosDeInstalacaoConfiguracaoDoUbuntuServer.pdf<br>
+
+Procedimentos de Instalação do GNU/Linux Ubuntu Server com LVM: https://github.com/vaamonde/ubuntuserver/blob/master/aulas/02_day/02-ProcedimentosDeInstalacaoConfiguracaoDoUbuntuServer-LVM.pdf<br>
+
+Procedimentos de Padronização de Nomes: https://github.com/vaamonde/ubuntuserver/blob/master/aulas/02_day/03-ProcedimentosDePadronizacaoDeNomes.pdf<br>
+
+#Instalação do GNU/Linux Mint 18.1 Cinnamon x64 e do GNU/Linux Ubuntu Server 16.04.1 LTS
 
 Download da ISO do GNU/Linux Mint Desktop Cinnamon 18.1: https://www.linuxmint.com/edition.php?id=226
 
@@ -15,6 +21,12 @@ Wikipedia Sistema de Arquivos: https://pt.wikipedia.org/wiki/Sistema_de_ficheiro
 Wikipedia Disco Rígido: https://pt.wikipedia.org/wiki/Disco_r%C3%ADgido
 
 Wikipedia Particionamento de Disco: https://pt.wikipedia.org/wiki/Particionamento_de_disco
+
+Wikipedia RAID: https://pt.wikipedia.org/wiki/RAID<br>
+
+Wikipedia LVM: https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux)<br>
+
+Wikibooks Criptografia de Arquivos: https://pt.wikibooks.org/wiki/Guia_do_Linux/Avan%C3%A7ado/Introdu%C3%A7%C3%A3o_ao_uso_de_criptografia_para_transmiss%C3%A3o/armazenamento_de_dados/Usando_pgp_(gpg)para_criptografia_de_arquivos<br>
 
 Procedimentos que serão utilizados na aula do GNU/Linux Mint Desktop Cinnamon 18.1 LTS:
 
