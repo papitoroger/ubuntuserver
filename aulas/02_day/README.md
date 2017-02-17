@@ -32,22 +32,22 @@ Atualizando o sistema via Bash/Shell utilizando o apt-get
 No GNU/Linux Mint recomendado utilizar o MintUpdate
 
 Alterando os privilegios utilizando o comando sudo</b><br>
-<i>sudo -i</i>
+<b>sudo -i</i>
 
 <b>Atualizando as listas do Apt-Get</b><br>
 <i>sudo apt-get update</i>
 
-Atualizando todos os software instalados
-sudo apt-get upgrade
+<b>Atualizando todos os software instalados</b><br>
+<i>sudo apt-get upgrade</i>
 
-Atualizando a distribuição é o Kernel
-sudo apt-get dist-upgrade
+<b>Atualizando a distribuição é o Kernel</b><br>
+<i>sudo apt-get dist-upgrade</i>
 
-Removendo software desnecessários
-sudo apt-get autoremove
+<b>Removendo software desnecessários</b><br>
+<i>sudo apt-get autoremove</i>
 
-Limpando o Cache do Apt-Get
-sudo apt-get clean
+<b>Limpando o Cache do Apt-Get</b><br>
+<i>sudo apt-get clean</i>
 
 Procedimentos que serão utilizados na aula do GNU/Linux Ubuntu Server 16.04.1 LTS:
 
@@ -60,23 +60,23 @@ Procedimentos que serão utilizados na aula do GNU/Linux Ubuntu Server 16.04.1 L
 
 Comandos utilizados na Aula:
 
-Atualizando o sistema via Bash/Shell utilizando o apt-get
+<b>Atualizando o sistema via Bash/Shell utilizando o apt-get
 No GNU/Linux Mint recomendado utilizar o MintUpdate
 
-Alterando os privilegios utilizando o comando sudo
-sudo -i
+Alterando os privilegios utilizando o comando sudo</b><br>
+<i>sudo -i</i>
 
-Atualizando as listas do Apt-Get
-sudo apt-get update
+<b>Atualizando as listas do Apt-Get</b><br>
+<i>sudo apt-get update</i>
 
-Atualizando todos os software instalados
-sudo apt-get upgrade
+<b>Atualizando todos os software instalados</b><br>
+<i>sudo apt-get upgrade</i>
 
-Atualizando a distribuição é o Kernel
-sudo apt-get dist-upgrade
+<b>Atualizando a distribuição é o Kernel</b><br>
+<i>sudo apt-get dist-upgrade</i>
 
-Removendo software desnecessários
-sudo apt-get autoremove
+<b>Removendo software desnecessários</b><br>
+<i>sudo apt-get autoremove</i>
 
-Limpando o Cache do Apt-Get
-sudo apt-get clean
+<b>Limpando o Cache do Apt-Get</b><br>
+<i>sudo apt-get clean</i>
