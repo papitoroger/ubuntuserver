@@ -31,11 +31,11 @@ Procedimentos que serão utilizados na aula do GNU/Linux Mint Desktop Cinnamon 1
 Atualizando o sistema via Bash/Shell utilizando o apt-get
 No GNU/Linux Mint recomendado utilizar o MintUpdate
 
-Alterando os privilegios utilizando o comando sudo</b>
+Alterando os privilegios utilizando o comando sudo</b><br>
 <i>sudo -i</i>
 
-Atualizando as listas do Apt-Get
-sudo apt-get update
+<b>Atualizando as listas do Apt-Get</b><br>
+<i>sudo apt-get update</i>
 
 Atualizando todos os software instalados
 sudo apt-get upgrade
