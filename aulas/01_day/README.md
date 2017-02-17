@@ -16,9 +16,13 @@ Apostila GNU/Linux Mint: https://www.linuxmint.com/documentation/user-guide/Cinn
 
 Apostila de GNU/Linux Guia Foca: http://www.guiafoca.org/
 
-Vídeo Aulas do GNU/Linux Mint: https://www.youtube.com/playlist?list=PLozhsZB1lLUNcpyrspEOqpQHMQqoe1wDJ
+Vídeo Aulas do GNU/Linux Mint Desktop: https://www.youtube.com/playlist?list=PLozhsZB1lLUNcpyrspEOqpQHMQqoe1wDJ
 
-Vídeo Aulas do GNU/Linux Ubuntu: https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u
+Vídeo Aulas do GNU/Linux Ubuntu Desktop: https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u
+
+Vídeo Aulas do GNU/Linux Ubuntu Server SAMBA-4 Level 1: https://www.youtube.com/playlist?list=PLozhsZB1lLUP8vTzrTTfQ1YWsR0hUAzFu
+
+Vídeo Aulas do GNU/Linux Ubuntu Server SAMBA-4 Level 2: https://www.youtube.com/playlist?list=PLozhsZB1lLUNy36DZzeuR0VqcQyqOWTpw
 
 Documentário de GNU/Linux Revolution OS: https://www.youtube.com/watch?v=plMxWpXhqig
 
