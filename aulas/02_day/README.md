@@ -32,7 +32,7 @@ Atualizando o sistema via Bash/Shell utilizando o apt-get
 No GNU/Linux Mint recomendado utilizar o MintUpdate
 
 Alterando os privilegios utilizando o comando sudo</b><br>
-<b>sudo -i</i>
+<i>sudo -i</i>
 
 <b>Atualizando as listas do Apt-Get</b><br>
 <i>sudo apt-get update</i>
