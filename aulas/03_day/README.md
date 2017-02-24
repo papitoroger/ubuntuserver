@@ -21,20 +21,20 @@ Alterando os privilegios utilizando o comando sudo</b><br>
 <b>Limpando o Cache do Apt-Get</b><br>
 <i>sudo apt-get clean</i>
 
-Informações do comando Apt-Get:
+Informações do comando Apt-Get:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-dpkg.html#s-dpkg-apt
 
 <b>Obtendo informações dos Manuais</b><br>
 <i>man nome_do_programa ou arquivo_de_configuração</i>
 
-Informações do comando Man:
+Informações do comando Man:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-ajuda.html#s-ajuda-man
 
 <b>Desligando e reiniciando o servidor</b><br>
 <i>sudo shutdown -r now</i>
 <i>sudo shutdown -h now</i>
 
-Informações do comando Shutdown:
+Informações do comando Shutdown:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdv.html#s-cmdv-shutdown
 
 Comandos de manipulaçao de arquivos e diretórios
@@ -42,25 +42,25 @@ Comandos de manipulaçao de arquivos e diretórios
 <b>Listando arquivos e diretórios</b><br>
 <i>ls -lha</i>
 
-Informações do comando ls:
+Informações do comando ls:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-ls
 
 <b>Alterando entre diretórios</b><br>
 <i>cd /etc/init.d/</i>
 
-Informações do comando cd:
+Informações do comando cd:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-cd
 
 <b>Criando diretórios</b><br>
 <i>mkdir -pv robson vaamonde</i>
 
-Informações sobre o comando mkdir:
+Informações sobre o comando mkdir:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-mkdir
 
 <b>Verificando o diretório atual</b><br>
 <i>pwd</i>
 
-Informações sobre o comando pwd:
+Informações sobre o comando pwd:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-pwd
 
 Site do Aurelio.net: http://aurelio.net/
