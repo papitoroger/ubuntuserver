@@ -1,6 +1,6 @@
-Trabalhando com os principais comandos de manipulação de arquivos e diretórios:
+#Trabalhando com os principais comandos de manipulação de arquivos e diretórios:
 
-<br>Comandos para manipulação de diretório</b><br>
+<b>Comandos para manipulação de diretório</b><br>
 ls        http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-ls<br>
 cd        http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-cd<br>
 pwd       http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-pwd<br>
