@@ -1,4 +1,4 @@
-#Trabalhando com os principais comandos de manipulação de arquivos e diretórios:
+#Trabalhando com os principais comandos de manipulação de arquivos e diretórios e rede:
 
 <b>Comandos para manipulação de diretório</b><br>
 ls        http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-ls<br>
