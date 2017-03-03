@@ -25,7 +25,8 @@ Informações do comando Apt-Get:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-dpkg.html#s-dpkg-apt
 
 <b>Obtendo informações dos Manuais</b><br>
-<i>man nome_do_programa ou arquivo_de_configuração</i>
+<i>man nome_do_programa ou arquivo_de_configuração</i><br>
+Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-ajuda.html#s-ajuda-man
 
 Informações do comando Man:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-ajuda.html#s-ajuda-man
