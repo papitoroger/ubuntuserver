@@ -17,6 +17,8 @@ cp        http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmd.html#s-comando-cp<
 mv        http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmd.html#s-comando-mv<br>
 touch     http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdv.html#s-cmdv-touch<br>
 echo      http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdv.html#s-cmdv-echo<br>
+grep      http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdv.html#s-cmdv-grep<br>
+env       http://www.guiafoca.org/cgs/guia/inic_interm/ch-pers.html#s-pers-environment<br>
 
 <b>Comandos para manipulação de paginação</b><br>
 more      http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdv.html#s-cmdv-more<br>
@@ -28,3 +30,6 @@ ping      http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdn.html#s-cmdn-ping<
 w         http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdn.html#s-cmdn-w<br>
 netstat   http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdn.html#s-cmdn-netstat<br>
 ifconfig  http://www.guiafoca.org/cgs/guia/inic_interm/ch-rede.html#s-rede-interfaces<br>
+route     http://www.guiafoca.org/cgs/guia/inic_interm/ch-rede.html#s-rede-rota<br>
+resolv.conf http://www.guiafoca.org/cgs/guia/inic_interm/ch-rede.html#s-rede-dns-a-resolv<br>
+tracepath http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdn.html#s-cmdn-traceroute<br>
