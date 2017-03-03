@@ -12,31 +12,31 @@ Site: https://technet.microsoft.com/pt-br/library/cc733160(v=ws.10).aspx
 Netdiag: A ferramenta de diagnóstico de linha de comando Netdiag ajuda a isolar problemas de conectividade e rede, realizando uma série de testes para determinar o estado do seu cliente de rede. 
 Site: https://technet.microsoft.com/pt-br/library/cc731434(v=ws.10).aspx
 
-<b>Comandos Úteis</b>
+<b>Comandos Úteis</b><br>
 Lista de comandos:
 
-nslookup pti.intra
-nslookup ptispo01dc01
-nslookup ptispo01dc01.uff.intra
+nslookup pti.intra<br>
+nslookup ptispo01dc01<br>
+nslookup ptispo01dc01.uff.intra<br>
 
-ping pti.intra
-ping ptispo01dc01
-ping ptispo01dc01.uff.intra
+ping pti.intra<br>
+ping ptispo01dc01<br>
+ping ptispo01dc01.uff.intra<br>
 
-gpresult /r | more
+gpresult /r | more<br>
 
-nltest /dclist:pti.intra
+nltest /dclist:pti.intra<br>
 
-dcdiag | more
+dcdiag | more<br>
 
-repadmin /viewlist *
-repadmin /showrepl
+repadmin /viewlist *<br>
+repadmin /showrepl<br>
 
-netdom query fsmo
+netdom query fsmo<br>
 
-dnscmd /info | more
-dnscmd /zoneinfo pti.intra | more
+dnscmd /info | more<br>
+dnscmd /zoneinfo pti.intra | more<br>
 
-netdom query fsmo
+netdom query fsmo<br>
 
-http://kpytko.pl/active-directory-domain-services/active-directory-troubleshooting-tools/
+Mais informações: http://kpytko.pl/active-directory-domain-services/active-directory-troubleshooting-tools/
