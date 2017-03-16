@@ -4,15 +4,15 @@ sudo apt-get update
 
 sudo apt-get install ntp ntpdate
 
-sudo apt-get install krb5-kdc krb5-config
-#digitar o nome do domínio, nome do servidor FQDN e novo do servidor de KDC
+sudo apt-get install krb5-kdc krb5-config<br>
+#digitar o nome do domínio, nome do servidor FQDN e novo do servidor de KDC<br>
 
-sudo apt-get install lamp-server^
-#digitar a senha do usuário ROOT do MySQL
+sudo apt-get install lamp-server^<br>
+#digitar a senha do usuário ROOT do MySQL<br>
 
-sudo apt-get install phpmyadmin
-#selecionar o servidor apache2 e digitar a senha do usuário phpmyadmin
-<?php phpinfo(); ?>
+sudo apt-get install phpmyadmin<br>
+#selecionar o servidor apache2 e digitar a senha do usuário phpmyadmin<br>
+<?php phpinfo(); ?><br>
 
 sudo apt-get install isc-dhcpd-server
 
