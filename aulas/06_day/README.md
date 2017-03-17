@@ -12,9 +12,9 @@ sudo apt-get install lamp-server^<br>
 
 sudo apt-get install phpmyadmin<br>
 #selecionar o servidor apache2 e digitar a senha do usuário phpmyadmin<br>
-<?php phpinfo(); ?><br>
+<?php phpinfo(); ?>
 
-sudo apt-get install isc-dhcpd-server
+sudo apt-get install isc-dhcp-server
 
 sudo apt-get install bind9
 
