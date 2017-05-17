@@ -1,6 +1,4 @@
-<h1>Acesso ao questionário de avaliação do Curso de Administração do Ubuntu Server</h1>
-
-<a href="https://goo.gl/forms/6dnhoTQ0qXvxch8s2" target="_blank">Clique aqui</a>
+<h1> Acesso ao questionário de avaliação do Curso de Administração do Ubuntu Server <a href="https://goo.gl/forms/6dnhoTQ0qXvxch8s2" target="_blank">Clique aqui</a></h1>
 
 Apresentação do Primeiro dia: https://github.com/vaamonde/ubuntuserver/blob/master/aulas/01_day/IntroducaoGnuLinuxUbuntu.pdf<br>
 
