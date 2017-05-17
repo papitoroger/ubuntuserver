@@ -1,4 +1,4 @@
-Acesso ao questionário de avaliação do Curso de Administração do Ubuntu Server
+<h1>Acesso ao questionário de avaliação do Curso de Administração do Ubuntu Server</h1>
 
 <a href="https://goo.gl/forms/6dnhoTQ0qXvxch8s2" target="_blank">Clique aqui</a>
 
@@ -6,7 +6,7 @@ Apresentação do Primeiro dia: https://github.com/vaamonde/ubuntuserver/blob/ma
 
 Download da ISO do GNU/Linux Mint 18.1: https://www.linuxmint.com/edition.php?id=226
 
-Download da ISO do GNU/Linux Ubuntu Server 16.04: http://releases.ubuntu.com/16.04/
+Download da ISO do GNU/Linux Ubuntu Server 16.04.2 LTS: http://releases.ubuntu.com/16.04/
 
 Download do RUFUS: https://rufus.akeo.ie/?locale=pt_BR
 
@@ -39,6 +39,6 @@ Documentário da História da Internet: https://www.youtube.com/watch?v=FHVPBueX
 Documentário da Origem dos Hackers: https://www.youtube.com/watch?v=kLYh0xdgKZI
 
 Download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Linux_Downloads
-(Baixar a versão 5.1 para GNU/Linux Ubuntu 16.04 Xenial x64 e também  VirtualBox Extension Pack)
+(Baixar a versão 5.1.xx para GNU/Linux Ubuntu 16.04 Xenial x64 e também  VirtualBox Extension Pack)
 
 Vídeo Aulas do Oracle VirtualBOX e Hyper-V: http://professorramos.com/index.php/categoria/aulas/sistema-operacional/virtualizacao/
