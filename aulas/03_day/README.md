@@ -32,7 +32,7 @@ Informações do comando Man:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-ajuda.html#s-ajuda-man
 
 <b>Desligando e reiniciando o servidor</b><br>
-<i>sudo shutdown -r now</i>
+<i>sudo shutdown -r now</i><br>
 <i>sudo shutdown -h now</i>
 
 Informações do comando Shutdown:<br>
