@@ -65,3 +65,5 @@ Informações sobre o comando pwd:<br>
 Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-pwd
 
 Site do Aurelio.net: http://aurelio.net/
+
+Site do Aurelio.net Canivete Suíço do Shell (Bash): http://aurelio.net/shell/canivete/
