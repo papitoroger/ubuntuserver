@@ -55,7 +55,7 @@ ClientAliveCountMax 0
 MaxAuthTries 3
 
 # Endereço IP do servidor que está liberado para permitir conexões via SSH
-ListenAddress 192.168.1.10
+ListenAddress 192.168.1.11
 
 # Não ler os arquivos ~/.rhosts e ~/.shosts
 IgnoreRhosts yes
