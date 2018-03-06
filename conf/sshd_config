@@ -70,10 +70,10 @@ AllowTcpForwarding no
 X11Forwarding no
 
 # Autenticação de chave pública
-PubkeyAuthentication yes
+PubkeyAuthentication no
 
 # Especifica se a autenticação de senha é permitida. O padrão é yes.
-PasswordAuthentication no
+PasswordAuthentication yes
 
 # Evitar o uso de diretórios residenciais inseguros e permissões de arquivos de chaves
 StrictModes yes
